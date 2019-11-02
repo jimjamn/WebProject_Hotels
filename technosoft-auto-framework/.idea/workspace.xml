@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="347f1f45-8e63-4252-98fc-d9729a59bec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/DevRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/HotelsHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/HotelsSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/LaunchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/DevRegisterSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/HotelsHomeSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/HotelsSearchSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/WeatherSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/homework.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/hotelsHome.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/hotelsSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/webprojectlaunch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/webprojectregister.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/framework/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/framework/webPages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/framework/webPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/webPages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/LoginSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/LoginSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/SharedSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/SharedSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/SignupSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/SignupSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/signup.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/signup.feature" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sr2lgFeegaKSYmoFzRnR5wDh3V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cucumber.sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="framework" />
+      <option name="MAIN_CLASS_NAME" value="framework.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="347f1f45-8e63-4252-98fc-d9729a59bec4" name="Default Changelist" comment="" />
+      <created>1572307548432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572307548432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
